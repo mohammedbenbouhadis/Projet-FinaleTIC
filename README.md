@@ -1,6 +1,6 @@
-Welcome to our project 
-Grp 90	(SIGL)
-benbouhadi	mohammed sami : Power point
-houhoun	mohammed anes : Excel
-zeher	dalia : Word
-Khaber	abdelmohcine : Latex 
+Welcome to our project  <br>
+Grp 90	(SIGL) <br>
+benbouhadi	mohammed sami : Power point <br>
+houhoun	mohammed anes : Excel <br>
+zeher	dalia : Word <br>
+Khaber	abdelmohcine : Latex  <br>
